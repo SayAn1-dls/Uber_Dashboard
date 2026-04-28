@@ -1,10 +1,21 @@
 # Uber Trip Analysis Dashboard (Tableau)
 
-An end-to-end, dashboard-first analysis of Uber trip activity—built to answer *when to drive, what to drive, and where the money clusters*.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-111111?style=for-the-badge" alt="Focus Data Analytics" />
+  <img src="https://img.shields.io/badge/Domain-Uber%20Trips-276EF1?style=for-the-badge" alt="Domain Uber Trips" />
+  <img src="https://img.shields.io/badge/Status-Portfolio%20Project-12B886?style=for-the-badge" alt="Status Portfolio Project" />
+</p>
 
-> **Attribution**  
-> This project is adapted from the original public repository at `https://github.com/Arunjangir8/DVA-projet-01-UBER`.  
-> This version focuses on presentation polish, reproducible chart exports, and a more “portfolio-ready” narrative around the same dataset.
+An end-to-end, dashboard-first analysis of Uber trip activity built to answer **when to drive, what to drive, and where revenue clusters**.
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Git-GitHub%20Workflow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" />
+</p>
 
 ## What you’ll find here
 
@@ -86,4 +97,9 @@ From the `REAL ROUTES` sheet in `UBER_RAW.xlsx` (721 usable trip rows after excl
 - Upgraded the README into a clear “portfolio landing page” (metrics, story, scanability).
 - Added chart exports so the analysis is viewable without Tableau.
 - Cleaned repository structure and ignored local cache artifacts for a professional repo footprint.
+
+## Attribution
+
+This version is adapted from the original public repository: `https://github.com/Arunjangir8/DVA-projet-01-UBER`.
+The current README, chart presentation, and repository polish were reworked for portfolio readability.
 
