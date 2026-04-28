@@ -92,14 +92,3 @@ From the `REAL ROUTES` sheet in `UBER_RAW.xlsx` (721 usable trip rows after excl
 2. **Open Tableau**: load `UBER dashboard.twb` to explore filters and drill-downs.
 3. **Audit the data**: inspect `UBER_RAW.xlsx` / `UBER_Clean.xlsx`.
 
-## What I improved in this version
-
-- Upgraded the README into a clear “portfolio landing page” (metrics, story, scanability).
-- Added chart exports so the analysis is viewable without Tableau.
-- Cleaned repository structure and ignored local cache artifacts for a professional repo footprint.
-
-## Attribution
-
-This version is adapted from the original public repository: `https://github.com/Arunjangir8/DVA-projet-01-UBER`.
-The current README, chart presentation, and repository polish were reworked for portfolio readability.
-
